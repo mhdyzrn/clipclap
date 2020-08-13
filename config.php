@@ -1,7 +1,7 @@
 <?php
 
-$eksternal_version = "1.9.6.1";
-$version = "41";
-$token = "YWJiMGRhYjQtODllYy00NDZiLWE5YWEtZjMyMDViNjYyNjFh";
-$uuid = "71847c1b-ac03-4f03-8d35-93e8d86622bd";
+$eksternal_version = "1.9.8";
+$version = "42";
+$token = "NTU5YjNmOTItMjI2MC00Mzc5LTg1NDMtOGRhOTczNGNkYjg2";
+$uuid = "fc0d3371-3bb5-4765-b239-e8bbe67e153b";
 $userid = "17052640";
